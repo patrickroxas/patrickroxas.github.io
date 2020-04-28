@@ -5,16 +5,36 @@
     <meta charset="utf-8">
     <style>
       /*GLOBAL STYLES*/
+
       a {
         color: #c962f5;
+      }
+      body {
+        font-size: 62.5%;
       }
       div.bio-box {
         border: 1px solid green;
       }
+      h1 {
+        font-size: 2em;
+        margin-top: 0;
+      }
       h2 {
         font-size: 30px;
       }
-      
+      html {
+        margin: 0;
+        padding: 0;
+      }
+
+
+      /*HERO STYLES*/
+      .full-hero {
+        background-color: #c7dbfc;
+        height: 50vh;
+        width: 50vw;
+      }
+
       /*SOCIAL STYLES*/
       .social-link {
         background: rgba(150, 150, 150, 0.2);
@@ -23,23 +43,28 @@
 
       /*BIO STYLES*/
       .bio-wrapper {
-        font-size: 24px;        
       }
       .bio-box {
         border: 1px solid black;
-        width: 50%;
+        font-size: 1em;
         margin: 10%;
-        font-size: 48px;
         padding: 20px;
+        width: 50%;
+      }
+      .bio-box h3 {
+        font-size: 1.5em;
+      }
+      .bio-copy {
+        font-size: 1em;
       }
       .bio-copy a {
         color: green;
-        font-size: 1em;
       }     
     </style>
   </head>
   <body>
-    <h1 class="social-link">I'm an h1</h1>
+    <div class="full-hero hero-home">
+    <h1>I'm an h1</h1>
     <ul>
       <li class="social-link">
         <a href="https://example.com/">Link</a>
@@ -51,6 +76,7 @@
         <a href="https://example.com/">Link</a>
       </li>
     </ul>
+    </div>
     <h2>I'm an h2</h2>
       <div class="bio-wrapper">
       <div class="bio-box">

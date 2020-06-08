@@ -1,32 +1,67 @@
 ---
 layout: post
-title: This is the title of the post
-postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+title: Second post
+postHero: /images/small/slide1.jpg
+author: Patrick
+authorTwitter: https://twitter.com/patrickrxs
+gravatar: https://s.gravatar.com/avatar/3731f8dcd4a3f4f221cad79bfdc8e389?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
 
-<img class="pull-left" src="https://placekitten.com/g/400/200"
-     alt="kitten">
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
-before coffin warehouses, and bringing up the rear of every funeral I meet;
-and especially whenever my hypos get such an upper hand of me, that it
-requires a strong moral principle to prevent me from deliberately stepping
-into the street, and methodically knocking people’s hats off—then, I
-account it high time to get to sea as soon as I can. This is my substitute
-for pistol and ball.
+<img src="https://holybeeofephesus.files.wordpress.com/2015/04/rs29_helpbr_press04-lpr.jpg"
+     alt="The Beatles performing Help">
 
-With a philosophical flourish Cato throws himself upon
-his sword; I quietly take to the ship. There is nothing surprising in this.
-If they but knew it, almost all men in their degree, some time or other,
-cherish very nearly the same feelings towards the ocean with me.
+
+<h1>Help!</h1>
+<br>
+The Beatles
+
+<div>
+I need somebody
+(Help!) not just anybody
+(Help!) you know I need someone
+Help!
+</div>
+<br>
+<div>
+I never needed anybody's help in any way
+But now these days are gone, I'm not so self assured (but now these days are gone)
+(And now I find) Now I find I've changed my mind and opened up the doors
+</div>
+<br>
+<div>
+Help me if you can, I'm feeling down
+And I do appreciate you being 'round
+Help me get my feet back on the ground
+Won't you please, please help me?
+</div>
+<br>
+<div>
+And now my life has changed in oh so many ways (and now my life has changed)
+My independence seems to vanish in the haze
+But every now and then I feel so insecure (I know that I)
+I know that I just need you like I've never done before
+</div>
+<br>
+<div>
+Help me if you can, I'm feeling down
+And I do appreciate you being 'round
+Help me get my feet back on the ground
+Won't you please, please help me
+</div>
+<br>
+<div>
+When I was younger, so much younger than today
+I never needed anybody's help in any way
+But now these days are gone, I'm not so self assured (but now these days are gone)
+(And now I find) now I find I've changed my mind and opened up the doors
+</div>
+<br>
+<div>
+Help me if you can, I'm feeling down
+And I do appreciate you being 'round
+Help me get my feet back on the ground
+Won't you please, please help me, help me, help me, ooh
+</div>
